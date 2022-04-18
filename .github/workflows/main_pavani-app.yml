@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Pavani-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_543BAC33D17E4F3E90A4ECFBB57776EC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53FEBFCBD68F46E6BBEFE9D4E5D33B0F }}
           package: .
